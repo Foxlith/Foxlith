@@ -66,13 +66,11 @@ Desarrollador apasionado por la tecnología, la inteligencia artificial y las cr
 
 </div>
 
----
-
-### 🐍 Contribution Snake
+### 📈 Activity
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/Foxlith/Foxlith/output/github-snake-dark.svg)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Foxlith&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a855f7&line=a855f7&point=ffffff)
 
 </div>
 
